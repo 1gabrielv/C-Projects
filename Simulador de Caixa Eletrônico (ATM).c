@@ -72,3 +72,6 @@ void cadastra(usuario *user){
     printf("Digite uma senha= ");
     scanf("%d", &user->senha);
 }
+
+//tirar vetores e implementar files
+//implementar mais um código com as funções
